@@ -1,0 +1,1 @@
+https://www.kaggle.com/notlucasp/financial-news-headlines?select=reuters_headlines.csv
